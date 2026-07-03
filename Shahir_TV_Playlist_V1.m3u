@@ -31,8 +31,6 @@ http://119.156.228.231:9983/stream/channelid/1324398660?ticket=EFDAF58D8A9426D7C
 http://fastshare1.com:8080//live/25711345/late8airline/18456.ts
 #EXTINF:-1 tvg-id="hungama.kids" tvg-name="Hungama Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png" group-title="Kids",Hungama Kids
 http://starhub.pro/live/farhat-3379/67897-913379/18456.ts
-#EXTINF:-1 tvg-id="hungama.kids.sd" tvg-name="Hungama Kids SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png" group-title="Kids",Hungama Kids SD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
 #EXTINF:-1 tvg-id="super.hungama.kids" tvg-name="Super Hungama Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/super-hungama-in.png" group-title="Kids",Super Hungama Kids
 http://fastshare1.com:8080//live/25711345/late8airline/66162.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png",Hungama Alternative
@@ -113,7 +111,7 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-id="t.sports.alternative.2" tvg-name="T Sports Alternative 2" tvg-logo="https://wpleague.in/wp-content/uploads/2026/06/T_Sports_logo-768x334.png" group-title="Sports",T Sports Alternative 2
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
-#EXTINF:-1 tvg-id="thunder.sports.hd" tvg-name="Thunder Sports HD" tvg-logo="https://www.vpncheck.org/wp-content/uploads/2021/10/Thunder-TV-Loading-Screen.png" group-title="Sports",Thunder Sports HD
+#EXTINF:-1 tvg-id="thunder.sports.hd" tvg-name="Thunder Sports HD" tvg-logo="https://www.vpncheck.org/wp-content/uploads/2021/10/Thunder-TV-Loading-Screen.png" group-title="Sports",Thunder ER Sports HD
 https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8
 #EXTINF:-1 tvg-id="tudn.sports" tvg-name="TUDN Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tudn-us.png" group-title="Sports",TUDN Sports
 http://45.5.118.152:8000/play/a08f/index.m3u8
@@ -158,7 +156,7 @@ http://119.156.228.231:9983/stream/channelid/929044861?ticket=F8A4A3BB5E85DBC808
 #EXTINF:-1 tvg-id="star.movies.select.fhd.alternative" tvg-name="Star Movies Select FHD Alternative" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png" group-title="Movies",Star Movies Select FHD Alternative
 http://fastshare1.com:8080//live/25711345/late8airline/98843.ts
 #EXTINF:-1 tvg-id="star.movies.select.fhd.india" tvg-name="Star Movies Select FHD India" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png" group-title="Movies",Star Movies Select FHD India
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/218.ts
+http://fastshare1.com:8080//live/25711345/late8airline/218.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/and-pictures-hd-in.png" group-title="Movies",&Pictures HD
 http://119.156.228.231:9983/stream/channelid/1175206610?ticket=12F78F3EED8D182D30FF5C3E8B9126436A1E310E&profile=pass
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO US
