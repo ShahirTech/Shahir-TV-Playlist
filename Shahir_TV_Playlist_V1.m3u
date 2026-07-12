@@ -19,6 +19,7 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/422.ts
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony.yay" tvg-name="Sony Yay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7704923eee4b0b8b9bde187b3b80c8e8.png" group-title="Kids",Sony Yay
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72153.ts
+#EXTINF:-1 tvg-id="sony.yay" tvg-name="Sony Yay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7704923eee4b0b8b9bde187b3b80c8e8.png" group-title="Kids",Sony Yay (yowaimo)
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 #EXTINF:-1 tvg-id="disney.fhd.india" tvg-name="Disney FHD India" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/disney-channel-hd-de.png" group-title="Kids",Disney FHD India
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
@@ -58,10 +59,12 @@ http://119.156.228.231:9983/stream/channelid/2057230362?ticket=05870E49AA29998C8
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="somoy.tv.fifa" tvg-name="Somoy TV FIFA" tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/800x450x1/uploads/media/2024/08/19/somoy-tv-jobs-20210609154523-434abddc411e7dee19542842ac3124b2.jpg" group-title="Bangla News",Somoy TV FIFA
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="family.iptv.promo" tvg-name="Family IPTV Promo" tvg-logo="https://www.newshd.pk/wp-content/uploads/2022/10/ptv-sqt.png" group-title="Promo",Family IPTV Promo
+#EXTINF:-1 tvg-id="bein.sports.promo" tvg-name="beIN Sports promo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports Promo
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/744527.ts
 #EXTINF:-1 tvg-id="bein.sports.1.arabic" tvg-name="beIN Sports 1 Arabic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports 1 Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#EXTINF:-1 tvg-id="bein.sports.5" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports 5
+https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 #EXTINF:-1 tvg-id="bein.sports.11" tvg-name="beIN Sports 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports 11
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="bein.sports.2.arabic" tvg-name="beIN Sports 2 Arabic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports 2 Arabic
@@ -146,6 +149,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98846.ts
 http://119.156.228.231:9983/stream/channelid/2092964041?ticket=B3AE3C8085CC2F07FDF21412B1C83BB0515F1A89&profile=pass
 #EXTINF:-1 tvg-id="star.movies.fhd.india" tvg-name="Star Movies FHD India" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png" group-title="Movies",Star Movies FHD India
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98842.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png",Star Movies (66)
+http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="star.movies.fhd.india.alternative" tvg-name="Star Movies FHD India Alternative" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png" group-title="Movies",Star Movies FHD India Alternative
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-movies-hd-in.png",Star Movies Select Alternative
@@ -158,6 +163,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/218.ts
 http://119.156.228.231:9983/stream/channelid/1175206610?ticket=12F78F3EED8D182D30FF5C3E8B9126436A1E310E&profile=pass
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO US
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1007.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO IN
+http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="International",LotusTV
 http://119.156.228.231:9983/stream/channelid/142078828?ticket=8F5E1D32A287A4D7EED627EA7637375D7DB84319&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/mn-plus-hd-in.png" group-title="Movies",MN+ HD
