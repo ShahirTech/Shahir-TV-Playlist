@@ -19,12 +19,16 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/422.ts
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony.yay" tvg-name="Sony Yay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7704923eee4b0b8b9bde187b3b80c8e8.png" group-title="Kids",Sony Yay
 http://seatv.xyz:80/live/8340A972D5C3015/6QHh8Lgoqt/72153.ts
-#EXTINF:-1 tvg-id="sony.yay" tvg-name="Sony Yay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7704923eee4b0b8b9bde187b3b80c8e8.png" group-title="Kids",Sony Yay (yowaimo)
+#EXTINF:-1 tvg-id="sony.yay" tvg-name="Sony Yay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/7704923eee4b0b8b9bde187b3b80c8e8.png" group-title="Kids",Sony Yay (Stream flex tv)
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/disney-channel-hd-de.png",Disney Channel SD (yowaimo.in streamflextv)
+https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 #EXTINF:-1 tvg-id="disney.fhd.india" tvg-name="Disney FHD India" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/disney-channel-hd-de.png" group-title="Kids",Disney FHD India
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/disney-channel-hd-de.png",Disney Channel SD
 http://119.156.228.231:9983/stream/channelid/1324398660?ticket=EFDAF58D8A9426D7CB978A0697AB554578A987EA&profile=pass
+#EXTINF:-1 tvg-id="hungama.kids" tvg-name="Hungama Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png" group-title="Kids",Hungama Kids (Stream flex tv)
+https://yowaimo.in/Sflex-ArtlPVT0719/hunguma.m3u8
 #EXTINF:-1 tvg-id="hungama.kids" tvg-name="Hungama Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png" group-title="Kids",Hungama Kids (fastshare)
 http://fastshare1.com:8080//live/25711345/late8airline/18456.ts
 #EXTINF:-1 tvg-id="hungama.kids" tvg-name="Hungama Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/hungama-in.png" group-title="Kids",Hungama Kids
